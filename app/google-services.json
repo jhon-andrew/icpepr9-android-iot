@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "241420083899",
+    "firebase_url": "https://icpepr9-iot.firebaseio.com",
+    "project_id": "icpepr9-iot",
+    "storage_bucket": "icpepr9-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241420083899:android:c998aa52036ba3cf",
+        "android_client_info": {
+          "package_name": "sh.surge.icpepr9.arduinocontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241420083899-ak6l22pcv85k49fi2pjh7uc6jhontiem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ojf_XJWVHp5i_bor5r8l66mH6EnTX7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
